@@ -1,4 +1,4 @@
-# SO-Final
+# Projeto_SO
 <br>Exercicio final de Sistema Operacional
 <br>
 <br>Para compilar coloque o comando:
